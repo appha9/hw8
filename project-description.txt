@@ -1,0 +1,22 @@
+PORTFOLIO PROJECT – WRITTEN DESCRIPTION
+
+This project is a personal student portfolio coded from scratch using HTML and CSS.
+
+The site contains:
+- A home/intro section
+- An About section
+- A Skills section
+- A Projects section
+- A Contact section
+
+The design is responsive. On larger screens, the hero section uses two columns and
+the skills/projects use multi-column layouts. On smaller screens, these sections
+stack vertically so the content remains readable and easy to navigate.
+
+The project uses semantic HTML elements such as header, nav, main, section, article,
+and footer. It also includes a viewport meta tag and responsive CSS media queries.
+
+For the peer assessment, screenshots or a live link can be added after the site is
+opened locally or hosted online.
+
+Note: W3C validation should be run on the final files before submission.
